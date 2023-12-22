@@ -1,3 +1,9 @@
+🚗 **RideRelay:** Revolutionizing ride-hailing with precision mapping by Mapbox, a seamless Next.js & React.js interface, secure transactions via Stripe, and a robust Firebase backend. Experience cutting-edge technology, financial peace, confident navigation, and effortless scalability. Join us in shaping the future of ride-hailing! 🌟 #RideRelay #NextGenRideHailing #TechInnovation 🚀🗺️💳
+
+
+
+
+
 # RideRelay
 
 
