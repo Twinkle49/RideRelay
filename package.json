@@ -1,0 +1,33 @@
+{
+  "name": "riderelay",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.2",
+    "@stripe/react-stripe-js": "^2.4.0",
+    "@stripe/stripe-js": "^2.2.0",
+    "firebase": "^10.5.2",
+    "mapbox-gl": "^2.15.0",
+    "next": "14.0.0",
+    "react": "^18",
+    "react-datepicker": "^4.21.0",
+    "react-dom": "^18",
+    "react-map-gl": "^7.1.6",
+    "stripe": "^14.5.0",
+    "tailwind-styled-components": "^2.2.0",
+    "viewport-mercator-project": "^7.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
